@@ -1,5 +1,10 @@
 # Ghid Claude Code
 
+[![Module](https://img.shields.io/badge/Module-10%2F10-brightgreen)](CATALOG.md)
+[![Limba](https://img.shields.io/badge/Limba-Romana-blue)](#)
+[![Nivel](https://img.shields.io/badge/Nivel-Incepator%20→%20Avansat-orange)](HARTA-INVATARE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 **Ghid complet Claude Code in limba romana — 10 module, de la incepator la avansat.**
 
 Claude Code este agentul de programare creat de Anthropic care traieste in terminalul tau. Acest ghid te invata sa il folosesti de la zero pana la nivel avansat, cu explicatii practice, configurari copy-paste si exercitii pe care le poti aplica imediat.
@@ -88,10 +93,26 @@ Nu ai timp pentru tot? Alege ce te intereseaza:
 
 ---
 
+## Statistici
+
+| Metric | Valoare |
+|--------|---------|
+| Module completate | 10/10 |
+| Cuvinte totale (module) | ~18.700 |
+| Nivel incepator | Module 01-04 (~2.5 ore) |
+| Nivel intermediar | Module 05-08 (~4.5 ore) |
+| Nivel avansat | Module 09-10 (~4 ore) |
+| Exercitii practice | 30 |
+| Scenarii pas cu pas | 20+ |
+
+---
+
 ## Despre
 
-Creat de [Daniel Bors](https://github.com/danielbors72). Inspirat de [claude-howto](https://github.com/luongnv89/claude-howto), dar nu o traducere — un ghid original scris din perspectiva unui utilizator activ, pentru comunitatea romaneasca.
+Creat de [Daniel Bors](https://github.com/danielbors72) cu ajutorul Claude Code (Opus 4.6).
+
+Inspirat de [claude-howto](https://github.com/luongnv89/claude-howto), dar nu o traducere — un ghid original scris din perspectiva unui utilizator activ, pentru comunitatea romaneasca de developeri.
 
 **Licenta:** [MIT](LICENSE)
 
-**Contribuii?** Deschide un issue sau un PR. Orice imbunatatire e binevenita.
+**Contribuii?** Deschide un [issue](https://github.com/danielbors72/Ghid-claude-code/issues) sau un PR. Orice imbunatatire e binevenita.

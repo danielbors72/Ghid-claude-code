@@ -339,7 +339,7 @@ Creeaza un skill `/explain` in `~/.claude/skills/explain/SKILL.md` care primeste
 Creeaza un skill `/status` in `.claude/skills/status/SKILL.md` care injecteaza `!`git status`` si `!`git log --oneline -5`` si cere lui Claude un rezumat al starii proiectului. Adauga `disable-model-invocation: true` si `context: fork`. Testeaza si observa ca sub-agentul nu are acces la istoria conversatiei.
 
 **Exercitiu 3 — Skill cu fisiere auxiliare:**
-Extinde skill-ul `/review-pr` cu un fisier `checklist.md` care contine o lista detaliata de verificari de securitate. Refera-l din SKILL.md cu "Pentru checklist-ul complet, vezi [checklist.md](checklist.md)". Observa cum Claude il citeste on-demand doar cand face review pe aspecte de securitate.
+Extinde skill-ul `/review-pr` cu un fisier `checklist.md` care contine o lista detaliata de verificari de securitate. Refera-l din SKILL.md cu `Pentru checklist-ul complet, vezi [checklist.md](checklist.md)`. Observa cum Claude il citeste on-demand doar cand face review pe aspecte de securitate.
 
 ## Recapitulare
 

@@ -28,7 +28,7 @@ Index complet al functionalitatilor acoperite in acest ghid.
 ## Statistici
 
 - **Module completate:** 10/10
-- **Cuvinte totale:** ~22.000
+- **Cuvinte totale (module):** ~18.700
 - **Nivel incepator:** Module 01-04 (~2.5 ore)
 - **Nivel intermediar:** Module 05-08 (~4.5 ore)
 - **Nivel avansat:** Module 09-10 (~4 ore)
